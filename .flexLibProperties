@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
-  <includeClasses/>
+  <includeClasses>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.TelegramBotAPI"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.User"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.Message"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.Update"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.ReplyKeyboardMarkup"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.GroupChat"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.IChat"/>
+    <classEntry path="com.aabbcc.double.telegram_bot_api.objects.ChatType"/>
+  </includeClasses>
   <includeResources/>
   <namespaceManifests/>
 </flexLibProperties>
